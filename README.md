@@ -13,3 +13,7 @@ Requirements:
 Only integers are allowed.
 
 The application should display an error with incorrect data on the console.
+
+Examples of output:
+
+![image](https://user-images.githubusercontent.com/38617892/109667865-dda40680-7b70-11eb-9d39-d16b27c82f0f.png)
